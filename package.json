@@ -1,0 +1,27 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "This is intended as a solution to Assignment 1",
+  "main": "aboutus.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyush2021/Bootstrap-Assignment-1.git"
+  },
+  "author": "Piyush Bhatia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piyush2021/Bootstrap-Assignment-1/issues"
+  },
+  "homepage": "https://github.com/piyush2021/Bootstrap-Assignment-1#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  }
+}
